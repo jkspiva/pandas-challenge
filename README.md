@@ -1,6 +1,8 @@
 # pandas-challenge
 Module 4 - pandas challenge
 
+Assignment is titled 'main.ipynb' and located inside the "PyCitySchools" folder
+
 Written Analysis is located inside the "PyCitySchools" folder
 
 Pandas .nunique() method located in cell 4, came from: https://www.w3schools.com/python/pandas/ref_df_nunique.asp
