@@ -1,2 +1,7 @@
 FINAL WRITTEN ANALYSIS
 
+This analysis looks at various data from 15 different high schools within a school district. From our analysis we can see that out of the total 39,170 students in the district the average math score is 78.99% and the average reading score is 81.88%. 74.98% of students in the district are passing math and 85.81% of students are passing reading. However there are only 65.17% of students passing both subjects. Our analysis goes deeper by seeing if it's certain schools that aren't performing up to standard and comparing those problematic schools with low passing rates with their total school budget and budget per student. The analysis goes in to see if different grade levels at different schools perform differently or not. The data further gets dissected into subjects per grade, per school. The analysis also looks to see if there is a correlation with school size and overall performance.
+
+We can conclude that a higher budget which allows for more money per student does not necessarily translate into higher scores for students. The worst overall performing school (Rodriguez High School) has a higher total budget ($2.5 million) and therefore a higher per student budget ($637) vs the highest performing school (Cabrera High School) with a total student budget of a little over $1 million with a per student budget of $582.
+
+We can also easily conclude that charter schools perform significantly better (90% overall passing) than district schools (53.67% overall passing).
